@@ -1,0 +1,7 @@
+## Interface: 120001, 120000
+## Title: Inspect Item Level Reloaded
+## Version: 1.2.0
+## Notes: Shows average item level in the inspect frame.
+## SavedVariables: InspectItemLevelReloadedDB
+
+InspectItemLevelReloaded.lua
