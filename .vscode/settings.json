@@ -1,0 +1,30 @@
+{
+    "Lua.diagnostics.globals": [
+        "INVSLOT_HEAD",
+        "INVSLOT_NECK",
+        "INVSLOT_SHOULDER",
+        "INVSLOT_BACK",
+        "INVSLOT_CHEST",
+        "INVSLOT_WRIST",
+        "INVSLOT_HAND",
+        "INVSLOT_WAIST",
+        "INVSLOT_LEGS",
+        "INVSLOT_FEET",
+        "INVSLOT_FINGER1",
+        "INVSLOT_FINGER2",
+        "INVSLOT_TRINKET1",
+        "INVSLOT_TRINKET2",
+        "INVSLOT_MAINHAND",
+        "INVSLOT_OFFHAND",
+        "ITEM_LEVEL",
+        "Settings",
+        "InspectFrame",
+        "InspectPaperDollItemSlotButton_Update",
+        "CharacterFrame",
+        "PaperDollFrame",
+        "PaperDollItemSlotButton_Update",
+        "PaperDollFrame_UpdateStats",
+        "INVSLOT_LAST_EQUIPPED",
+        "INVSLOT_FIRST_EQUIPPED"
+    ]
+}

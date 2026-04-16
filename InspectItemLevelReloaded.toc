@@ -4,4 +4,4 @@
 ## Notes: Shows average item level in the inspect frame.
 ## SavedVariables: InspectItemLevelReloadedDB
 
-WoW-Inspect-Item-Level-Reloaded.lua
+InspectItemLevelReloaded.lua
