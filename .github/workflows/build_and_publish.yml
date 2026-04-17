@@ -16,6 +16,7 @@ on:
     - .vscode/**
     - .idea/**
     - check.sh
+    - release.ps1
 
 jobs:
   build:
